@@ -7,4 +7,4 @@ Contract address:
 
 Check here: https://routescan.io/token/0x09b21544BeD6a65bDE91dE9ebFee8740f2395F31?chainId=1088
 
-https://github.com/brightnft/yoints/blob/main/yoints.png
+![Yoints](https://github.com/brightnft/yoints/blob/main/yoints.png)
