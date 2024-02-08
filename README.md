@@ -1,4 +1,16 @@
 
+# Yoints
+
+$Yoint tokens are test tokens used for rewarding contributions in our community.
+
+Contract address:
+
+0x09b21544BeD6a65bDE91dE9ebFee8740f2395F31
+
+Check with explorer:
+https://routescan.io/token/0x09b21544BeD6a65bDE91dE9ebFee8740f2395F31?chainId=1088
+
+![$Yoints](https://github.com/brightnft/yoints/blob/main/yoints.png)
 
 
 ## Please follow these 4 steps for a local deploy
