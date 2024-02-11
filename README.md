@@ -13,9 +13,9 @@ https://routescan.io/token/0x09b21544BeD6a65bDE91dE9ebFee8740f2395F31?chainId=10
 ![$Yoints](https://github.com/brightnft/yoints/blob/main/yoints.png)
 
 
-## Please follow these 4 steps for a local deploy
+## Here are some steps for a local deploy of this ERC-20 token on Metis
 
-
+ 
 ### Step 1: Install
 
 Run "npm i " to install dependencies in package.json
